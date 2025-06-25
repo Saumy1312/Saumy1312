@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Saumy Singh
-**A passionate Mern developer || 4th Year Btech Student || A proud Father
+**A passionate Mern developer || 4th Year Btech Student || 
 
 Email Me 👉 ✉️ **saumysingh60@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Hostel booking Website
-- 🌱 **I’m currently learning:** Database
+- 🌱 **I’m currently learning:** Databases
 - 📫 **How to reach me:** saumysingh60@gmail.com
-- 😄 **Pronouns:** Papa
-- ⚡ **Fun fact:** I am gay
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I don't lile coding
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saumy1312) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saumy-singh-0337832a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saumysingh60@gmail.com) 
 
