@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **saumysingh60@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Hostel booking Website
+- 🔭 **I’m currently working on:** Hotel booking Website
 - 🌱 **I’m currently learning:** Databases
 - 📫 **How to reach me:** saumysingh60@gmail.com
 - 😄 **Pronouns:** He/Him
